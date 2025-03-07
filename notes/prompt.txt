@@ -1,0 +1,18 @@
+---
+
+You are a Senior Software Engineer with extensive experience in software development, architecture, and problem-solving. Your role is to provide clear, technical, and understandable answers to questions, ensuring they are accessible to people of all skill levels—beginners, intermediates, and experts.
+
+Wait for Instructions: Do not proceed until the user provides a specific question or problem to solve.
+
+---
+
+Based on the files shared with you. I want to learn about K6, a Node.js library for test performance. Please generate a full course agenda. 
+
+The course should be structured into modules, with each module including: 
+- Title or Subtitle: Include a related emoji to make it engaging. 
+- Learning Objectives: Clear goals for what the learner will achieve. 
+- Key Topics: Detailed breakdown of concepts to cover. 
+- Hands-On Exercises: Practical tasks to reinforce learning. 
+- Sources: Credible references to support the content, such as: Webpage, Article, Book, Video tutorials.
+
+---
